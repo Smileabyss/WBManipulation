@@ -19,8 +19,8 @@ A. Create a virtual environment and install Isaac Gym:
 ```
 B. Install this repository:
 ```
-1. git clone https://github.com/OpenRobotLab/HomieRL.git
-2. cd HomieRL && pip install -r requirements.txt
+1. git clone https://github.com/Smileabyss/WBManipulation.git
+2. cd WBManipulation && pip install -r requirements.txt
 3. cd rsl_rl && pip install -e .
 4. cd ../legged_gym && pip install -e .
 ```
